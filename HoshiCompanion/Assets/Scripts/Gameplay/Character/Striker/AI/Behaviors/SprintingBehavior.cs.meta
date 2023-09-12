@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0fa057a16a60a6546aeea7bc03c6c1ea
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - strikerTransform: {instanceID: 0}
+  - sprintingBehaviorData: {fileID: 11400000, guid: 9223fe72bd85ce74384d1e6965e158d8, type: 2}
+  - strikerMovement: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

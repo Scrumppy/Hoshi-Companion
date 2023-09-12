@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 27656499a008e7941814cf3644e664ce
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - strikerTransform: {instanceID: 0}
+  - dribblingBehaviorData: {fileID: 11400000, guid: a5c31a029456ca244b5f56eb0deec8d3, type: 2}
+  - strikerMovement: {instanceID: 0}
+  - striker: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
